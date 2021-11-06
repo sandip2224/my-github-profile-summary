@@ -1,10 +1,4 @@
-
-# Theme Preview
-
-Here are all cards with themes.
-| :bell: | If only show Top Languages card here, then you maybe forgot to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
+<!-- 
 ## [default](./default/README.md)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -12,8 +6,8 @@ Here are all cards with themes.
 ## [solarized](./solarized/README.md)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-## [solarized_dark](./solarized_dark/README.md)
+[![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<!-- ## [solarized_dark](./solarized_dark/README.md)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -36,12 +30,13 @@ Here are all cards with themes.
 ## [nord_dark](./nord_dark/README.md)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 ## [github](./github/README.md)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-## [github_dark](./github_dark/README.md)
+<!-- ## [github_dark](./github_dark/README.md)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandip2224/my-github-profile-summary/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ -->
